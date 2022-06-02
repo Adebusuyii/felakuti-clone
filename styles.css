@@ -40,21 +40,21 @@ html, body {
 }
 
 .main-header {
-background-image: url("images/fela 5.jpeg");
+background-image: url("images/fela5.jpeg");
 background-blend-mode: multiply;
 background-size: cover;
 padding-bottom: 400px;
 }
 
 .main-header1 {
-    background-image: url("images/fela\ background.jpeg");
+    background-image: url("images/felabackground.jpeg");
     background-blend-mode: multiply;
     background-size: cover;
     padding-bottom: 800px;
     }
 
  .main-header2 {
-    background-image: url("images/fela\ background.png");
+    background-image: url("images/felabackground.png");
     background-blend-mode: multiply;
     background-size: cover;
     padding-bottom: 900px;
